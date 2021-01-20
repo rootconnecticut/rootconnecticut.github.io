@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/williamreyor
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.rootct.org
+  * I am williamreyor (https://keybase.io/williamreyor) on keybase.
+  * I have a public key ASB-p6CIH-uLgr4sOfr2H1-rSMRYhGewUmqq98S4vQH3YAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01012066c3bdc288d9de122548d25cfe49f7b584679343f89bf46ad38d4db1a163490a",
+      "host": "keybase.io",
+      "kid": "01207ea7a0881feb8b82be2c39faf61f5fab48c4588467b0526aaaf7c4b8bd01f7600a",
+      "uid": "6ad4f288d48659717801c79d8d035419",
+      "username": "williamreyor"
+    },
+    "merkle_root": {
+      "ctime": 1611150912,
+      "hash": "0e89a9dba56851feb309af28c4f7de4b70a9fa624ba7b37d144e3467cafd4c7b918803e67153abe874fd428e10678db759b84fea0d5d4fe53477003c503f5247",
+      "hash_meta": "c058cc2ecf85f750f623c9f8bd9f4d3241771f18a33a3a8fa96a7a9524bc34fa",
+      "seqno": 18845992
+    },
+    "service": {
+      "entropy": "ks+OSd+grwPizCXZYBi6Q00S",
+      "hostname": "www.rootct.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1611150955,
+  "expire_in": 504576000,
+  "prev": "2eb3da7bec82c821906cc9b6921f119145854775a7f9ce11674791507e6ba172",
+  "seqno": 36,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgfqegiB/ri4K+LDn69h9fq0jEWIRnsFJqqvfEuL0B92AKp3BheWxvYWTESpcCJMQgLrPae+yCyCGQbMm2kh8RkUWFR3Wn+c4RZ0eRUH5roXLEIJ6+qg613dVGUhOiawPtsWYCxwN+PxpCi47LYZqqEs6ZAgHCo3NpZ8RAyPtZuMjG3nUsdHxyGQ3byC/y4zYQdgTzTdkTkURR9Y45qBWkEGQtMSQH0xQ+GM+e/+vY+HloMPRpVxmLG5siAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBmuhApXMQwcw/q2pPV/UXLcnm2x8njjogIXJVemuYFXo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/williamreyor
+
+==================================================================
